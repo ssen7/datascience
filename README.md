@@ -6,3 +6,7 @@
 ### All of the scripts here output results as outlined in the assignments and have helped me score 100% in all my assignments.
 
 ### I hope to keep it that way. :)
+
+# NOTE:
+* Please extract the data in the same directory as the scripts. Happy coding.
+* The code is not optimized, but works. Any suggestions are welcome.
